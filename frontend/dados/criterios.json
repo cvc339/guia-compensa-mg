@@ -1,0 +1,22 @@
+[
+  { "id": 1, "modalidade_id": 1, "tipo_criterio": "especificidade", "descricao": "Apenas estar inserido em Unidade de Conservação de Proteção Integral Federal, Estadual ou Municipal, localizada no Estado de Minas Gerais." },
+  { "id": 2, "modalidade_id": 1, "tipo_criterio": "vantagem", "descricao": "Pode ser em qualquer unidade de conservação do estado, independente da bacia hidrográfica. Procedimento mais simples, e a obrigação do empreendedor se encerra com a transferência da titularidade do imóvel para o estado." },
+  { "id": 3, "modalidade_id": 1, "tipo_criterio": "desvantagem", "descricao": "Precisa ser em área pendente de regularização fundiária no interior de Unidade de Conservação." },
+  { "id": 4, "modalidade_id": 1, "tipo_criterio": "observacao", "descricao": "Lembrar que tanto (MONAs) e Refúgios da Vida Silvestre podem ser constituídos por áreas particulares, desde que seja possível compatibilizar os objetivos da unidade com a utilização da terra." },
+  { "id": 5, "modalidade_id": 3, "tipo_criterio": "especificidade", "descricao": "Área pendente de regularização fundiária, inserida nos limites geográficos do bioma Mata Atlântica e possuir vegetação nativa característica do bioma. Deve estar localizada na mesma bacia hidrográfica." },
+  { "id": 6, "modalidade_id": 3, "tipo_criterio": "vantagem", "descricao": "Não precisa de vistoria na área. Não precisa de acompanhamento de plantio. Análise mais rápida (praticamente só documentação)." },
+  { "id": 7, "modalidade_id": 3, "tipo_criterio": "desvantagem", "descricao": "A proposta de compensação precisa ser aprovada previamente pela CPB. A área deve está inserida no interior de Unidade de Conservação pendente de regularização fundiária." },
+  { "id": 8, "modalidade_id": 4, "tipo_criterio": "especificidade", "descricao": "Com as mesmas características ecológicas, inserida nos limites geográficos do Bioma Mata Atlântica, na mesma bacia hidrográfica." },
+  { "id": 9, "modalidade_id": 4, "tipo_criterio": "vantagem", "descricao": "Não precisa passar pela aprovação da CPB. Não precisa estar inserida no interior de Unidade de Conservação." },
+  { "id": 10, "modalidade_id": 4, "tipo_criterio": "desvantagem", "descricao": "Comprovar a similaridade da área compensada com a área suprimida. A manutenção e segurança da área ficam sob responsabilidade da empresa." },
+  { "id": 11, "modalidade_id": 5, "tipo_criterio": "especificidade", "descricao": "Na mesma bacia hidrográfica de rio federal, sempre que possível na mesma sub-bacia hidrográfica." },
+  { "id": 12, "modalidade_id": 5, "tipo_criterio": "vantagem", "descricao": "Não precisa passar pela aprovação da CPB." },
+  { "id": 13, "modalidade_id": 5, "tipo_criterio": "desvantagem", "descricao": "Produção de mudas, plantio, acompanhamento do plantio, replantio quando necessário. Precisa de vistoria e aprovação da área pelo órgão ambiental." },
+  { "id": 14, "modalidade_id": 6, "tipo_criterio": "especificidade", "descricao": "Mesma sub-bacia hidrográfica e, prioritariamente, na área de influência do empreendimento ou nas cabeceiras dos rios." },
+  { "id": 15, "modalidade_id": 6, "tipo_criterio": "vantagem", "descricao": "Possibilidade de fazer no próprio imóvel, sem a necessidade de adquirir novos imóveis." },
+  { "id": 16, "modalidade_id": 6, "tipo_criterio": "desvantagem", "descricao": "Elaboração de projeto técnico de reconstituição da flora com monitoramento e replantio das mudas se necessário." },
+  { "id": 17, "modalidade_id": 10, "tipo_criterio": "especificidade", "descricao": "O plantio deve ser em APP, Reserva Legal ou em corredores de vegetação para estabelecer conectividade. A proposta deve ser apresentada em número de mudas e em área resultante." },
+  { "id": 18, "modalidade_id": 10, "tipo_criterio": "vantagem", "descricao": "Espécies com grau de ameaça menores (vulnerável) resultam em áreas de compensação menores." },
+  { "id": 19, "modalidade_id": 10, "tipo_criterio": "desvantagem", "descricao": "É muito difícil de ser aplicada para espécies campestres. Geralmente deve ser associada ao plantio por enriquecimento, para não criar uma grande população de indivíduos da mesma espécie." },
+  { "id": 20, "modalidade_id": 10, "tipo_criterio": "observacao", "descricao": "A definição da proporção leva em consideração o grau de ameaça das espécies. Este tipo de compensação deve ser feito mediante PLANTIO. Não pode ser sobreposta com outra compensação de APP." }
+]

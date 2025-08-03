@@ -1,0 +1,233 @@
+[
+  {
+    "id": 1,
+    "grupo_compensacao": "Minerária",
+    "nome_modalidade": "Doação (Regularização Fundiária em UC)",
+    "proporcao": "1:1",
+    "forma": "Doação",
+    "detalhes": "Doação de área em Unidade de Conservação de Proteção Integral (Federal, Estadual ou Municipal) pendente de regularização fundiária.",
+    "vantagens": [
+      "Pode ser em qualquer UC do estado, independente da bacia hidrográfica.",
+      "Procedimento mais simples, a obrigação se encerra com a transferência da titularidade."
+    ],
+    "desvantagens": [
+      "Precisa ser em área pendente de regularização fundiária."
+    ],
+    "observacao": "MONAs e Refúgios da Vida Silvestre podem ser constituídos por áreas particulares, tornando a aceitação um critério do órgão gestor.",
+    "legislacao": [
+      "DE-47749-2019",
+      "RC-SEMAD-IEF-3102-2021"
+    ]
+  },
+  {
+    "id": 2,
+    "grupo_compensacao": "Minerária",
+    "nome_modalidade": "Implantação e/ou Manutenção em UC",
+    "proporcao": "Valor pecuniário conforme Tabela da IS 02",
+    "forma": "Implantação e/ou Manutenção",
+    "detalhes": "Em Unidade de Conservação de Proteção Integral a ser indicada pelo IEF e conforme Plano de Trabalho estabelecido pelo órgão gestor.",
+    "vantagens": [
+      "Pode ser uma alternativa quando há demora na efetivação da regularização fundiária."
+    ],
+    "desvantagens": [
+      "Tende a ser mais cara que a doação.",
+      "O empreendedor fica dependente de aceite do órgão ambiental para quitação, o que pode ser subjetivo."
+    ],
+    "observacao": "Cálculo do valor é complexo e cabe ao empreendedor buscar orçamentos.",
+    "legislacao": []
+  },
+  {
+    "id": 3,
+    "grupo_compensacao": "Mata Atlântica",
+    "nome_modalidade": "Doação (Regularização Fundiária em UC)",
+    "proporcao": "2:1",
+    "forma": "Doação",
+    "detalhes": "Doação de área com vegetação nativa característica do bioma, na mesma bacia hidrográfica, para regularização de UC. A área não precisa ter as mesmas características ecológicas ou estágio de regeneração.",
+    "vantagens": [
+      "Não precisa de vistoria na área.",
+      "Análise mais rápida (documental).",
+      "Obrigação se encerra com a transferência da titularidade."
+    ],
+    "desvantagens": [
+      "Proposta precisa ser aprovada previamente pela Câmara de Proteção à Biodiversidade (CPB).",
+      "Limitado a UCs pendentes de regularização."
+    ],
+    "observacao": "Deve estar na mesma bacia hidrográfica de rio federal e, se possível, na mesma sub-bacia.",
+    "legislacao": [
+      "DE-47749-2019"
+    ]
+  },
+  {
+    "id": 4,
+    "grupo_compensacao": "Mata Atlântica",
+    "nome_modalidade": "Preservação (Servidão Perpétua)",
+    "proporcao": "2:1",
+    "forma": "Servidão Perpétua",
+    "detalhes": "Instituição de servidão em área com as mesmas características ecológicas da área suprimida, inserida no Bioma Mata Atlântica e na mesma bacia hidrográfica.",
+    "vantagens": [
+      "Não precisa de aprovação da CPB.",
+      "Não precisa estar inserida em Unidade de Conservação."
+    ],
+    "desvantagens": [
+      "Requer comprovação técnica da similaridade da área.",
+      "A manutenção e segurança da área ficam sob responsabilidade da empresa."
+    ],
+    "observacao": "",
+    "legislacao": []
+  },
+  {
+    "id": 5,
+    "grupo_compensacao": "Mata Atlântica",
+    "nome_modalidade": "Recuperação de Área Degradada",
+    "proporcao": "2:1",
+    "forma": "Plantio com Espécies Nativas",
+    "detalhes": "Modalidade aplicável quando não for possível atender aos critérios de doação ou preservação. Deve ser feita na mesma bacia hidrográfica.",
+    "vantagens": [
+      "Não precisa de aprovação da CPB."
+    ],
+    "desvantagens": [
+      "Custos elevados com produção de mudas, plantio, acompanhamento e replantio.",
+      "Exige vistoria e aprovação da área pelo órgão ambiental."
+    ],
+    "observacao": "",
+    "legislacao": []
+  },
+  {
+    "id": 6,
+    "grupo_compensacao": "APP",
+    "nome_modalidade": "Recuperação de APP",
+    "proporcao": "1:1",
+    "forma": "Plantio com Espécies Nativas",
+    "detalhes": "Recuperação de Área de Preservação Permanente (APP) na mesma sub-bacia hidrográfica e, prioritariamente, na área de influência do empreendimento ou cabeceiras dos rios.",
+    "vantagens": [
+      "Possibilidade de fazer no próprio imóvel, sem necessidade de adquirir novas áreas."
+    ],
+    "desvantagens": [
+      "Exige elaboração de projeto técnico de reconstituição da flora com monitoramento e replantio, se necessário."
+    ],
+    "observacao": "",
+    "legislacao": [
+      "CONAMA-369-2006",
+      "DE-47749-2019"
+    ]
+  },
+  {
+    "id": 7,
+    "grupo_compensacao": "APP",
+    "nome_modalidade": "Recuperação de Área Degradada em UC",
+    "proporcao": "1:1",
+    "forma": "Plantio com Espécies Nativas",
+    "detalhes": "Recuperação de área degradada no interior de Unidade de Conservação de domínio público (Federal, Estadual ou Municipal), localizada no Estado.",
+    "vantagens": [
+      "Possibilidade de usar áreas já adquiridas no interior de UC que estejam degradadas."
+    ],
+    "desvantagens": [
+      "Responsabilidade sobre a área (invasão, incêndios, etc.)."
+    ],
+    "observacao": "",
+    "legislacao": []
+  },
+  {
+    "id": 8,
+    "grupo_compensacao": "APP",
+    "nome_modalidade": "Doação em UC (Regularização Fundiária)",
+    "proporcao": "1:1",
+    "forma": "Doação",
+    "detalhes": "Destinação ao Poder Público de área no interior de Unidade de Conservação de domínio público, pendente de regularização fundiária. Deve estar na mesma bacia hidrográfica.",
+    "vantagens": [
+      "Não precisa de vistoria ou acompanhamento de plantio.",
+      "Análise rápida (documental).",
+      "Obrigação se encerra com a transferência da titularidade."
+    ],
+    "desvantagens": [
+      "A área deve estar inserida em UC pendente de regularização. Atenção com MONAs e Refúgios, que aceitam áreas de terceiros."
+    ],
+    "observacao": "",
+    "legislacao": []
+  },
+  {
+    "id": 9,
+    "grupo_compensacao": "APP",
+    "nome_modalidade": "Implantação/Revitalização de Área Verde Urbana",
+    "proporcao": "1:1",
+    "forma": "Implantação ou Revitalização",
+    "detalhes": "Implantação ou revitalização de área verde urbana, prioritariamente na mesma sub-bacia hidrográfica, demonstrando o ganho ambiental no projeto.",
+    "vantagens": [
+      "Benefício direto para a comunidade local."
+    ],
+    "desvantagens": [
+      "Requer articulação com o poder público para indicação de áreas e definição de responsabilidades de manutenção."
+    ],
+    "observacao": "",
+    "legislacao": []
+  },
+  {
+    "id": 10,
+    "grupo_compensacao": "Ameaçadas",
+    "nome_modalidade": "Plantio Compensatório da Espécie",
+    "proporcao": "10 a 25 mudas por exemplar suprimido",
+    "forma": "Plantio",
+    "detalhes": "Plantio de mudas da espécie suprimida em APP, Reserva Legal ou corredores de vegetação para conectividade. A proposta deve ser em número de mudas e área resultante.",
+    "vantagens": [
+      "Espécies com grau de ameaça menor (vulnerável) resultam em áreas de compensação menores."
+    ],
+    "desvantagens": [
+      "Muito difícil de ser aplicada para espécies campestres (usar Resolução CONAMA para campos de altitude).",
+      "Risco de criar uma população geneticamente homogênea."
+    ],
+    "observacao": "Compensação é feita mediante PLANTIO, não há possibilidade de doar áreas. Não pode sobrepor área de APP já destinada a outra compensação.",
+    "legislacao": []
+  },
+  {
+    "id": 11,
+    "grupo_compensacao": "Ameaçadas",
+    "nome_modalidade": "Recuperação com Grupo de Espécies",
+    "proporcao": "25:1",
+    "forma": "Recuperação",
+    "detalhes": "Plantio composto por espécies nativas típicas da região, preferencialmente do grupo de espécies que foi suprimido, em sua densidade populacional natural.",
+    "vantagens": [
+      "Boa alternativa para os casos de impossibilidade de conseguir mudas específicas das espécies suprimidas."
+    ],
+    "desvantagens": [
+      "Resulta em quantitativos de mudas maiores e, consequentemente, áreas maiores para o plantio."
+    ],
+    "observacao": "",
+    "legislacao": []
+  },
+  {
+    "id": 12,
+    "grupo_compensacao": "Imunes",
+    "nome_modalidade": "Plantio Compensatório (Pequi e Ipê)",
+    "proporcao": "Definido pela legislação de proteção",
+    "forma": "Plantio",
+    "detalhes": "Conforme definido pela legislação de proteção. Caso a legislação não defina, aplica-se o critério de espécies ameaçadas.",
+    "vantagens": [],
+    "desvantagens": [],
+    "observacao": "",
+    "legislacao": []
+  },
+  {
+    "id": 13,
+    "grupo_compensacao": "SNUC",
+    "nome_modalidade": "Pagamento em Pecúnia",
+    "proporcao": "Até 0,5% do valor de investimento",
+    "forma": "Pagamento",
+    "detalhes": "Depósito de recursos financeiros em conta específica do órgão gestor das UCs beneficiárias em até 4 parcelas mensais e sucessivas.",
+    "vantagens": [],
+    "desvantagens": [],
+    "observacao": "O prazo para o primeiro pagamento depende da fase do licenciamento em que a compensação foi estabelecida.",
+    "legislacao": []
+  },
+  {
+    "id": 14,
+    "grupo_compensacao": "Reserva Legal",
+    "nome_modalidade": "Relocação / Compensação de Reserva Legal",
+    "proporcao": "Quantitativo necessário para compor 20% do imóvel original",
+    "forma": "Aquisição de CRA, Arrendamento, Doação em UC, etc.",
+    "detalhes": "Compensação por meio de aquisição de CRA, arrendamento de área sob regime de servidão ambiental ou Reserva Legal, doação ao poder público de área em UC pendente de regularização ou cadastramento de outra área equivalente.",
+    "vantagens": [],
+    "desvantagens": [],
+    "observacao": "",
+    "legislacao": []
+  }
+]

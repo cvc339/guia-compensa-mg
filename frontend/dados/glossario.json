@@ -1,0 +1,10 @@
+[
+  { "termo": "APP", "definicao": "Área de Preservação Permanente: área protegida, coberta ou não por vegetação nativa, com a função ambiental de preservar os recursos hídricos, a paisagem, a estabilidade geológica e a biodiversidade." },
+  { "termo": "CPB", "definicao": "Câmara de Proteção à Biodiversidade e de Áreas Protegidas, órgão do COPAM responsável por analisar processos de licenciamento ambiental que envolvem supressão de vegetação." },
+  { "termo": "CRA", "definicao": "Cota de Reserva Ambiental: título nominativo representativo de área com vegetação nativa, existente ou em processo de recuperação." },
+  { "termo": "IEF", "definicao": "Instituto Estadual de Florestas: órgão do Governo de Minas Gerais responsável pela política florestal, conservação da biodiversidade e gestão de unidades de conservação estaduais." },
+  { "termo": "MONA", "definicao": "Monumento Natural: um tipo de Unidade de Conservação de Proteção Integral que visa preservar sítios naturais raros, singulares ou de grande beleza cênica. Pode ser constituído por áreas particulares." },
+  { "termo": "RL", "definicao": "Reserva Legal: área localizada no interior de uma propriedade ou posse rural com a função de assegurar o uso econômico de modo sustentável dos recursos naturais do imóvel rural." },
+  { "termo": "SNUC", "definicao": "Sistema Nacional de Unidades de Conservação da Natureza: conjunto de normas e procedimentos que possibilitam a criação, implantação e gestão das unidades de conservação (UCs)." },
+  { "termo": "UC", "definicao": "Unidade de Conservação: espaço territorial com características naturais relevantes, legalmente instituído pelo Poder Público com objetivos de conservação e limites definidos, sob regime especial de administração." }
+]

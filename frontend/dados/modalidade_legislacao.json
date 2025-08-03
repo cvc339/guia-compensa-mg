@@ -1,0 +1,13 @@
+[
+  { "modalidade_id": 1, "legislacao_id": 1 },
+  { "modalidade_id": 1, "legislacao_id": 2 },
+  { "modalidade_id": 1, "legislacao_id": 3 },
+  { "modalidade_id": 1, "legislacao_id": 4 },
+  { "modalidade_id": 1, "legislacao_id": 5 },
+  { "modalidade_id": 1, "legislacao_id": 6 },
+  { "modalidade_id": 1, "legislacao_id": 7 },
+  { "modalidade_id": 3, "legislacao_id": 8 },
+  { "modalidade_id": 6, "legislacao_id": 9 },
+  { "modalidade_id": 6, "legislacao_id": 6 },
+  { "modalidade_id": 6, "legislacao_id": 7 }
+]
